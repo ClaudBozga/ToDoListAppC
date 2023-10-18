@@ -1,0 +1,11 @@
+#container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 70vw;
+    margin: auto;
+    background-color: rgb(97, 97, 204);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
